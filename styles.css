@@ -34,3 +34,16 @@ li
     line-height: 30px;
     padding: 10px;
 }
+
+li button
+{
+    display: block;
+    height: 50px;
+    width: 100px;
+}
+
+dialog
+{
+    position: absolute;
+    top: 25px;
+}

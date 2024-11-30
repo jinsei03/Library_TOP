@@ -1,0 +1,36 @@
+body
+{
+    display: grid;
+    align-items: center;
+    gap: 25px;
+}
+
+h1
+{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+button
+{
+    height: 50px;
+    width: 200px;
+}
+
+.cards
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(150px, 1fr));
+    margin: 0;
+    padding: 0;
+    gap: 25px;
+}
+
+li
+{
+    list-style: none;
+    border: 1px solid black;
+    line-height: 30px;
+    padding: 10px;
+}

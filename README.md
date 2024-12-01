@@ -1,1 +1,2 @@
 # Library_TOP
+Another project from the Odin Project where a user can input books that they are currently or have finished reading MANUALLY. This project lets the user add more books, remove books, and change the current status of their books. The project also mentions the use of arrays through loops which I was not able to do unfortunately to that but was still able to input the objects into an array.
